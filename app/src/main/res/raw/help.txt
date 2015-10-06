@@ -1,0 +1,13 @@
+"Poverty is not a hindrance in the acquisition of knowledge."
+-Engr. Donabel D. Abuan
+
+WHAT IS BREAST CANCER? - displays all brief information such as its disease
+DO I HAVE BREAST CANCER? - displays breast cancer symptoms
+I THINK I HAVE IT. NOW WHAT? - displays details breast cancer cures such as chemotherapy, radiology, etc. It also displays a lifestyle plans for breast cancer patients
+I THINK I DON'T HAVE IT. HOW TO PREVENT IT? - displays ways and lifestyle plans in accordance to breast cancer prevention
+
+Developed by:
+Noel B. Paulino
+blood
+sweat
+tears

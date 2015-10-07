@@ -11,7 +11,9 @@ public class MainActivity extends AppCompatActivity {
 
     public void onClickHelp(View view){
         setContentView(R.layout.help);
-
+    }
+     public void onClickWhat(View view){
+        setContentView(R.layout.whatisbreastcancer);
     }
     @Override
     protected void onCreate(Bundle savedInstanceState) {
